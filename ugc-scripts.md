@@ -106,6 +106,106 @@
 
 ---
 
+---
+
+### 🍪 Script 6: The "Premium But Affordable" Paradox
+* **Target Audience:** Budget-Conscious Students, Foodies, Young Professionals in Patna.
+* **Psychology Trigger:** Value Optimization (high-end experience without financial guilt).
+* **On-Screen Text (Hook Overlay):** Spending ₹500 at Patna’s premium café 🤑
+
+| Scene | Shot |
+| :--- | :--- |
+| **1** | Creator flashes a 500 rupee note at the camera, then points dynamically to a clean marble table spread. |
+| **2** | Slow-motion macro shot of a fresh, hot toasted Artisan Sandwich being pulled apart. |
+| **3** | Smooth panning shot of a flaky, premium almond Croissant sitting next to a layered iced latte. |
+| **4** | Barista smiling warmly while handing over the beautifully presented order at the counter. |
+| **5** | Close-up of the final bill showing unexpected affordability, with the creator waving happily. |
+
+* **Voiceover (Natural Cadence):**  
+"I used to avoid luxury specialty cafes thinking they’d completely break my monthly budget. But watch this. At Brew Haven, we got a gourmet toasted Artisan Sandwich, a flaky fresh-baked almond Croissant, and two premium handcrafted specialty coffees for under 500 bucks. You literally get an elite international vibe without the corporate price tag. Go check them out this weekend!"
+
+---
+
+### 🎵 Script 7: The Live Acoustic Session & Weekend Reset
+* **Target Audience:** Music Lovers, Friendship Groups, Couples looking for an evening escape.
+* **Psychology Trigger:** FOMO (Fear Of Missing Out) & Experiential Branding.
+* **On-Screen Text (Hook Overlay):** Patna’s best weekend plan 🎸
+
+| Scene | Shot |
+| :--- | :--- |
+| **1** | Quick mood pan of a local musician adjusting an acoustic guitar under dimly lit fairy lights. |
+| **2** | Close-up of a group of friends laughing, chatting, and sharing warm chocolate Brownies. |
+| **3** | Macro shot of a fresh pour of premium Espresso into a cup, steam catching the ambient light. |
+| **4** | Aesthetic wide angle tracking shot of the cozy, fully-packed creative evening crowd. |
+| **5** | Creator raising a glass of custom iced latte to the camera in a cheers motion. |
+
+* **Voiceover (Natural Cadence):**  
+"If your weekend plan is just scrolling on your phone at home, you are doing it completely wrong. Brew Haven hosts these incredible live acoustic nights that completely reset your mood. Exceptional local artists, unmatched cozy lighting, and the best artisanal pastries in town. Click the link below to reserve a table for your group before they run out of space!"
+
+---
+
+### ☀️ Script 8: The Early-Bird Breakfast Routine
+* **Target Audience:** Morning Commuters, Early Professionals, Patna University Students.
+* **Psychology Trigger:** Convenience, Routine Upgrade, and Functional Luxury.
+* **On-Screen Text (Hook Overlay):** My 9 AM secret weapon ☀️
+
+| Scene | Shot |
+| :--- | :--- |
+| **1** | Bright golden sunshine hitting a modern minimal glass storefront as the doors swing open. |
+| **2** | Extreme close-up of a knife cleanly cutting a fresh, warm Cinnamon Roll down the center. |
+| **3** | Barista expertly serving a piping hot, perfectly balanced Flat White coffee. |
+| **4** | Creator comfortably picking up a premium aesthetic takeaway cup with sleek brand typography. |
+| **5** | Quick tracking shot of the creator walking out confidently, giving a thumbs up to the friendly staff. |
+
+* **Voiceover (Natural Cadence):**  
+"Most people don't know this, but Brew Haven opens early at 9 AM. Their morning breakfast routine is an absolute lifesaver. I grab a freshly baked Cinnamon Roll and a premium hot Flat White before my morning shift starts. It’s fast, incredibly fresh, and completely fuels my entire morning. Save this video and upgrade your breakfast routine tomorrow!"
+
+---
+
+### 🛵 Script 9: The Premium Delivery App Reality Check
+* **Target Audience:** Homebodies, Remote Workers, Online Delivery Demographic.
+* **Psychology Trigger:** Comfort, Trust, and Instant Gratification.
+* **On-Screen Text (Hook Overlay):** Cafe quality... delivered? 🛵
+
+| Scene | Shot |
+| :--- | :--- |
+| **1** | Person sitting comfortably on a living room couch, scrolling through a premium food delivery app. |
+| **2** | Fast-paced transition to the Brew Haven kitchen packing a clean, secure, tamper-evident box. |
+| **3** | Delivery rider handing over a perfectly sealed, insulated flask container at the doorstep. |
+| **4** | Creator pouring a perfectly intact, chilled Cold Brew into a glass with zero leakage or spills. |
+| **5** | Close-up of the creator taking a deep sip, looking visibly amazed at the freshness. |
+
+* **Voiceover (Natural Cadence):**  
+"I was highly skeptical about ordering premium café coffee and delicate artisan pastries online, but Brew Haven completely changed my mind. The packaging is 100% spill-proof, the muffins arrive fresh, and the Cold Brew is still perfectly chilled and layered. Click 'Order Online' right now to get the ultimate café experience delivered straight to your couch."
+
+---
+
+### 🌿 Script 10: The Hidden Outdoor Sanctuary Experience
+* **Target Audience:** Tourists, Creative Writers, Nature Lovers, Calm Seekers.
+* **Psychology Trigger:** The Aesthetic Lifestyle Escape (Micro-Sanctuary effect).
+* **On-Screen Text (Hook Overlay):** Hidden outdoor sanctuary in Patna 🌿
+
+| Scene | Shot |
+| :--- | :--- |
+| **1** | Slow panning shot of a beautiful open-air wooden seating deck decorated with soft, ambient fairy lights. |
+| **2** | Extreme macro shot of a single-origin Signature Latte infusing, with steam drifting into the breeze. |
+| **3** | Wind gently rustling some minimal green bamboo plants placed in the cozy corner. |
+| **4** | Medium shot of a creator peacefully turning pages of a physical novel with a slice of Cheesecake nearby. |
+| **5** | Smooth slow zoom-out showing a calm green escape right in the middle of Patna's busiest district. |
+
+* **Voiceover (Natural Cadence):**  
+"Boring Road can get incredibly chaotic, but I found this hidden outdoor deck that feels like an absolute paradise escape. Brew Haven’s open-air seating area is perfect for catching the sunset, sipping on fresh Signature Lattes, or just losing yourself in a book. Next time you need a peaceful breath of fresh air, you know exactly where to come."
+
+---
+
+## 📌 Note
+
+These UGC advertisement scripts were created as part of the **Future Interns Prompt Engineering Internship – Task 2**.
+
+The scripts demonstrate AI-assisted prompt engineering, creator-focused storytelling, and social media marketing strategy for a fictional premium café brand.
+
+All branding and business details are fictional and intended for educational and portfolio purposes only.
+
 ## 📌 Note
 
 These UGC advertisement scripts were created as part of the **Future Interns Prompt Engineering Internship – Task 2**.
